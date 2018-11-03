@@ -1,0 +1,28 @@
+.jumbotron {
+    background-color: #fffaf1;
+    color: #800000;
+}
+
+.goto {
+    background-color: #800000;
+    color: #fbd2d7;
+    border-color: #222;
+}
+
+.links {
+    color: #222;
+}
+
+body {
+    color: #800000;
+    background-color: #fbd2d7;
+}
+
+h4 {
+    color: #222;
+}
+
+#match-img {
+    max-width: 90%;
+    margin: auto;
+}
