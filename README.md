@@ -4,8 +4,7 @@ Friend Finder is a full-stack application that allows users to answer questions 
 
 ## Algorithm
 
-This app finds the smallest absolute difference between each person's answers for each question and returns to the user the other user that was found using this technique.
-
+This app finds the smallest absolute difference between each person's answers for each question, which are given on a 5-point scale, and returns to the user the other user that was found using this technique. 
 
 ## Built With
 
